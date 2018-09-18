@@ -35,4 +35,8 @@ Competencies: Classes, modeling real life things in code, factories, pair progra
 
 # Hungry for More? 
 
-Choose a class above, and make a factory that generates it. What's a factory take a look at today's lesson notes and try to figure it out.  (After you really understand classes!)
+Choose a class above, and make a factory that generates it. 
+
+### What's a factory? 
+
+[Take a look at today's lesson notes and try to figure it out](https://git.generalassemb.ly/WebDev-Connected-Classroom/classes/blob/master/README.md#create-a-factory).  
