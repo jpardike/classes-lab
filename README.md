@@ -39,4 +39,4 @@ Choose a class above, and make a factory that generates it.
 
 ### What's a factory? 
 
-[Take a look at today's lesson notes and try to figure it out](https://git.generalassemb.ly/WebDev-Connected-Classroom/classes/blob/master/README.md#create-a-factory).  
+[Take a look at today's lesson notes and try to figure it out](https://git.generalassemb.ly/sf-sei-3/classes/blob/master/README.md#create-a-factory).  
