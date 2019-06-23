@@ -4,7 +4,7 @@
 # Classes
 
 Title: Classes lab<br>
-Class: wdi-cc<br>
+Class: sei<br>
 Created by: WDI Instructional team<br>
 Competencies: Classes, modeling real life things in code, factories, pair programming
 
