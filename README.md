@@ -5,7 +5,7 @@
 
 Title: Classes lab<br>
 Class: sei<br>
-Created by: WDI Instructional team<br>
+Created by: SEI Instructional team<br>
 Competencies: Classes, modeling real life things in code, factories, pair programming
 
 ## Instructions
